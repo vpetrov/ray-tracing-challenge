@@ -1,0 +1,25 @@
+{
+  "name": "chapter01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "simplex-noise": "^2.4.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "projection": "./node_modules/.bin/babel-node projection.js",
+    "projection2": "./node_modules/.bin/babel-node projection2.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
