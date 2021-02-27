@@ -15,3 +15,5 @@ To run the samples use Node.js. Check the "scripts" section of package.json to s
 Some combination of `npm install`, `npm start` and `npm test` ought to do it.
 
 Each chapter has screenshots or screenrecordings.
+
+[screenshot](chapter16/dice.png)
