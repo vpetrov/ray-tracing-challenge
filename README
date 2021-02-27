@@ -16,4 +16,4 @@ Some combination of `npm install`, `npm start` and `npm test` ought to do it.
 
 Each chapter has screenshots or screenrecordings.
 
-[screenshot](chapter16/dice.png)
+![screenshot](chapter16/dice.png)
