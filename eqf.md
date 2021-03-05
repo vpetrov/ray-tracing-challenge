@@ -3,6 +3,12 @@ Evolution of the `eqf` function for comparing two 'floats':
 ### Chapter 1:
 
 ```
+if (f1 === f2) { ... }
+```
+
+"oops, I need something better"
+
+```
 export function eqf(f1, f2) {
     return Math.abs(f2 - f1) < 0.00001;
 }
