@@ -6,7 +6,7 @@ Evolution of the `eqf` function for comparing two 'floats':
 if (f1 === f2) { ... }
 ```
 
-"oops, I need something better"
+"ooooh... I see now"
 
 ```
 export function eqf(f1, f2) {
